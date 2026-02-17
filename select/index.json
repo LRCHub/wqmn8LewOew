@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "Rising Hope",
+  "base_artist": "LiSA",
+  "createdAt": "2026-02-17T13:58:19.693687Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Rising Hope (Live at Toyosu Pit 2015)",
+      "artist": "LiSA",
+      "has_synced": true,
+      "path": "select/01_Rising_Hope_(Live_at_Toyosu_Pit_2015)_LiSA.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Rising Hope (Live at Toyosu Pit 2015)",
+      "artist": "LiSA",
+      "has_synced": true,
+      "path": "select/02_Rising_Hope_(Live_at_Toyosu_Pit_2015)_LiSA.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Rising Hope - Instrumental",
+      "artist": "LiSA",
+      "has_synced": true,
+      "path": "select/03_Rising_Hope_-_Instrumental_LiSA.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Rising Hope (From \"The Irregular at Magic High School\")",
+      "artist": "AmaLee",
+      "has_synced": false,
+      "path": "select/04_Rising_Hope_(From__The_Irregular_at_Magic_High_School_)_AmaLee.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Rising Hope (From \"The Irregular at Magic High School\")",
+      "artist": "Amalee",
+      "has_synced": false,
+      "path": "select/05_Rising_Hope_(From__The_Irregular_at_Magic_High_School_)_Amalee.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Rising Hope",
+      "artist": "lisa",
+      "has_synced": true,
+      "path": "select/06_Rising_Hope_lisa.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Rising Hope -2015武道館 Live Chocolate Ver.-",
+      "artist": "LiSA",
+      "has_synced": true,
+      "path": "select/07_Rising_Hope_-2015武道館_Live_Chocolate_Ver.-_LiSA.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Rising Hope -2015武道館 Live Ichigo Ver.-",
+      "artist": "LiSA",
+      "has_synced": false,
+      "path": "select/08_Rising_Hope_-2015武道館_Live_Ichigo_Ver.-_LiSA.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Rising Hope (From “The Irregular at Magic High School”)",
+      "artist": "AmaLee",
+      "has_synced": true,
+      "path": "select/09_Rising_Hope_(From_“The_Irregular_at_Magic_High_School”)_AmaLee.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Rising Hope",
+      "artist": "AmaLee",
+      "has_synced": true,
+      "path": "select/10_Rising_Hope_AmaLee.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Rising Hope",
+      "artist": "LiSA",
+      "has_synced": false,
+      "path": "select/pl_01_Rising_Hope_LiSA.txt"
+    }
+  ]
+}
